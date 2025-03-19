@@ -1,6 +1,6 @@
-
-
-
+Στυλιανή Φουντεδάκη
+4ο εξάμηνο
+geo23391031
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
